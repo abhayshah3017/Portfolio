@@ -1,8 +1,12 @@
 import './App.css';
+import NavBar from './Components/navBar';
 
 function App() {
   return (
-    <h2>San</h2>
+    <>
+    <NavBar />
+    
+    </>
   );
 }
 
