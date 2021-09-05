@@ -80,7 +80,7 @@ nav ul li {
 /*************BUTTON*************/
 
 .header-button {
-    border: 1px solid red;
+    border: 1px solid rgb(255, 251, 0);
     text-transform: uppercase;
     border-radius: 0;
     padding: 0.5rem;
@@ -90,7 +90,7 @@ nav ul li {
 
 .header-button:hover {
     text-decoration: none;
-    background-color: red;
+    background-color: rgb(255, 196, 0);
     transition: .2s ease-in-out
 }
 
