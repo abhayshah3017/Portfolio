@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Profile = () => {
+const Experience = () => {
     return ( 
         <div className="containerr">
         <h1>Under Construction</h1>
@@ -8,4 +8,4 @@ const Profile = () => {
      );
 }
  
-export default Profile;
+export default Experience;

@@ -100,3 +100,22 @@ nav ul li {
     width: 100vw;
     z-index: 1;
 }
+
+.containerr{
+    display: flex;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: url(./background.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    color: #ffc600;
+
+}
