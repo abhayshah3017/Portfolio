@@ -40,6 +40,7 @@ function App() {
         <Route path="/projects" exact component={Projects}></Route>
         <Route path="/contact" exact component={Contact}></Route>
         <Redirect from="/" exact to="/home" />
+        <Redirect from="/Portfolio" exact to="/home" />
         <Redirect to="/notFound" />
       </Switch>
     </BrowserRouter>
